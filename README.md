@@ -31,17 +31,12 @@ A modern, real-time cryptocurrency exchange frontend built with Vue 3, TypeScrip
 
 ## Installation
 
-1. Clone the repository:
-```bash
-cd C:\laragon-v6\www\virgosoft-exchange-demo
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 npm install
 ```
 
-3. Configure environment variables:
+2. Configure environment variables:
 The `.env` file is already configured with:
 ```env
 VITE_API_BASE_URL=https://api-virgosoft-exchange.mirrorlog.com/api/v1
@@ -49,7 +44,7 @@ VITE_PUSHER_APP_KEY=
 VITE_PUSHER_APP_CLUSTER=mt1
 ```
 
-4. Start the development server:
+3. Start the development server:
 ```bash
 npm run dev
 ```
