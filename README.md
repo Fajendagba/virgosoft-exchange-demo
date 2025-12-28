@@ -2,6 +2,18 @@
 
 A modern, real-time cryptocurrency exchange frontend built with Vue 3, TypeScript, and Tailwind CSS.
 
+## Backend GitHub, Live Demo & Documentation
+
+**Don't want to set up locally?** Use the live API running on production.
+
+* **Base URL:** `https://api-virgosoft-exchange.mirrorlog.com`
+* **Postman Documentation:** `https://documenter.getpostman.com/view/18182167/2sBXVZpvBa`
+* **GitHub URL:** `https://github.com/Fajendagba/virgosoft-exchange`
+
+**Demo Credentials (Live):**
+* **Seller:** `alice@example.com` / `password`
+* **Buyer:** `bob@example.com` / `password`
+
 ## Features
 
 - **Authentication**: Secure login and registration with JWT tokens
